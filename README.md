@@ -5,8 +5,8 @@
 ### [COLOR PICKER](https://github.com/lokeshlokesh2121/Color_Picker)
 ### [COUNTER APPLICATION](https://github.com/lokeshlokesh2121/Counter)
 ### [GUESSING NUMBER GAME](https://github.com/lokeshlokesh2121/ValidNumber)
-### [Puppy Shades](https://github.com/lokeshlokesh2121/Puppyshades)
-### [Addition Game](https://github.com/lokeshlokesh2121/AddingTwoNumbers)
-### [Traffic Light Signals](https://github.com/lokeshlokesh2121/Traffic-light-signal)
-### [VRWebsite](https://github.com/lokeshlokesh2121/VR-Website)
+### [PUPPY SHADES](https://github.com/lokeshlokesh2121/Puppyshades)
+### [ADDITION GAME](https://github.com/lokeshlokesh2121/AddingTwoNumbers)
+### [TRAFFIC LIGHT Signals](https://github.com/lokeshlokesh2121/Traffic-light-signal)
+### [VRWEBSITE](https://github.com/lokeshlokesh2121/VR-Website)
 
