@@ -1,4 +1,4 @@
-# Frond-end-mini-projects
+
 ## [FRONTEND MINIPROJECTS]
 
 ### [RESTUARANT WEBSITE](https://github.com/lokeshlokesh2121/RestrauntWebsite/blob/main/Restaurant%20website.html)
